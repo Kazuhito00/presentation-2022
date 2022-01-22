@@ -1,5 +1,5 @@
 # presentation-2022
-presentation-2022はopencv2webslidesやJupyter notebook(RISE)を用いたプレゼンテーション資料をまとめたリポジトリです。<br>
+presentation-2022は、opencv2webslidesやJupyter notebook(RISE)を<br>用いたプレゼンテーション資料をまとめたリポジトリです。<br>
 最近は更にUnityや他のソフトを用いて資料を作成したりもしています。<br>
 以下を利用してプレゼンテーションを作成しています。
 * [Kazuhito00/opencv2webslides-sample](https://github.com/Kazuhito00/opencv2webslides-sample)
@@ -29,11 +29,11 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 
 # Contents
 ## 1/22：【NGK2022S】Unity Barracuda でニューラルネットワークの推論
-<img src="https://user-images.githubusercontent.com/37477845/105575124-80b47400-5dac-11eb-800d-17fca24681d3.jpg" width="640px" height="360px">
+<img src="https://user-images.githubusercontent.com/37477845/150631307-62e92b99-f6d1-4230-b074-86b1caa18b5c.png" width="640px" height="360px">
 
-パス：presentation_document/20220123_NGK2022S
+パス：presentation_document/20220122_NGK2022S
 
-資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/ngk2022s-image-processing-demo) / [Youtube](https://www.youtube.com/watch?v=KsKsMqLfpIs)
+資料：[GitHub](https://github.com/Kazuhito00/NGK2022S-LT) / [SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/ngk2022s-unity-barracuda) / [Youtube](https://www.youtube.com/watch?v=V37molIlzm0)
 
 Requirement： 
 * Unity 2020.3.26f1
