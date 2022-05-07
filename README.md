@@ -28,6 +28,13 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 5/7：【Pythonデータ分析勉強会#32】Raspberry Piでリアルタイムな物体検出(2022年4月やったやつ)
+<img src="https://user-images.githubusercontent.com/37477845/167246724-310f9a1e-9260-4e31-a95f-6f271e33340d.png" width="640px" height="360px">
+
+パス：-
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pythondetafen-xi-mian-qiang-hui-number-32-raspberry-pideriarutaimunawu-ti-jian-chu-2022nian-4yue-yatutayatu) / [Youtube](https://youtu.be/vcxrd9LqSTg)
+
 ## 1/22：【NGK2022S】Unity Barracuda でニューラルネットワークの推論
 <img src="https://user-images.githubusercontent.com/37477845/150631307-62e92b99-f6d1-4230-b074-86b1caa18b5c.png" width="640px" height="360px">
 
