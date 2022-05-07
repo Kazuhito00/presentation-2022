@@ -33,7 +33,7 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 
 パス：-
 
-資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pythondetafen-xi-mian-qiang-hui-number-32-raspberry-pideriarutaimunawu-ti-jian-chu-2022nian-4yue-yatutayatu) / [Youtube](https://youtu.be/vcxrd9LqSTg)
+資料：[Prezi](https://prezi.com/view/idmlomChKNWG3nQfbXpV/) / [SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pythondetafen-xi-mian-qiang-hui-number-32-raspberry-pideriarutaimunawu-ti-jian-chu-2022nian-4yue-yatutayatu) / [Youtube](https://youtu.be/vcxrd9LqSTg)
 
 ## 1/22：【NGK2022S】Unity Barracuda でニューラルネットワークの推論
 <img src="https://user-images.githubusercontent.com/37477845/150631307-62e92b99-f6d1-4230-b074-86b1caa18b5c.png" width="640px" height="360px">
