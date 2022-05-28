@@ -28,7 +28,7 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
-## 5/28：OSC2022Nagoya】DearPyGuiに入門しました
+## 5/28：【OSC2022Nagoya】DearPyGuiに入門しました
 <img src="https://user-images.githubusercontent.com/37477845/170820149-0d9fbcf9-368b-4049-aed5-591f6dd1e5c8.jpg" width="640px" height="360px">
 
 パス：-
