@@ -28,6 +28,13 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 5/28：OSC2022Nagoya】DearPyGuiに入門しました
+<img src="https://user-images.githubusercontent.com/37477845/170820149-0d9fbcf9-368b-4049-aed5-591f6dd1e5c8.jpg" width="640px" height="360px">
+
+パス：-
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/osc2022nagoya-introduced-to-dearpygui) / [Youtube](https://www.youtube.com/watch?v=bDmap-7NYTU)
+
 ## 5/7：【Pythonデータ分析勉強会#32】Raspberry Piでリアルタイムな物体検出(2022年4月やったやつ)
 <img src="https://user-images.githubusercontent.com/37477845/167246724-310f9a1e-9260-4e31-a95f-6f271e33340d.png" width="640px" height="360px">
 
