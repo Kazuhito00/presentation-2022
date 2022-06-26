@@ -28,6 +28,13 @@ python presentation.py
 Jupyter notebookのプレゼンテーションはローカルにダウンロードしてJupyterで開くか、Binderのリンクからご確認ください。
 
 # Contents
+## 6/26：【Pythonデータ分析勉強会#33】「DearPyGuiに入門しました」の続き<br>～Image-Processing-Node-Editor～
+<img src="https://user-images.githubusercontent.com/37477845/175805766-4ab7f8c4-459f-4f30-b030-17d6603b5d65.jpg" width="640px" height="360px">
+
+パス：-
+
+資料：[SpeakerDeck](https://speakerdeck.com/kazuhitotakahashi/pythondetafen-xi-mian-qiang-hui-number-33-dearpyguiniru-men-simasita-falsesok-ki-image-processing-node-editor) / [Youtube](https://www.youtube.com/watch?v=8jwH3WB6Mgg)
+
 ## 5/28：【OSC2022Nagoya】DearPyGuiに入門しました
 <img src="https://user-images.githubusercontent.com/37477845/170820149-0d9fbcf9-368b-4049-aed5-591f6dd1e5c8.jpg" width="640px" height="360px">
 
