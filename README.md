@@ -29,7 +29,7 @@ Jupyter notebookのプレゼンテーションはローカルにダウンロー�
 
 # Contents
 ## 6/26：【Pythonデータ分析勉強会#33】「DearPyGuiに入門しました」の続き<br>～Image-Processing-Node-Editor～
-<img src="https://user-images.githubusercontent.com/37477845/175805766-4ab7f8c4-459f-4f30-b030-17d6603b5d65.jpg" width="640px" height="360px">
+<img src="https://user-images.githubusercontent.com/37477845/175805766-4ab7f8c4-459f-4f30-b030-17d6603b5d65.jpg" width="550px" height="360px">
 
 パス：-
 
